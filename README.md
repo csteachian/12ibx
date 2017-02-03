@@ -2,3 +2,9 @@
 We are obviously the best at medical record storage
 Classwork by 12IBx 
 
+
+# Roster
+- Ian
+- Alberto
+- Marco
+- Shalini
