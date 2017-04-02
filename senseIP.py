@@ -1,13 +1,12 @@
-# Blinking IP octet utility
+# Sense Hat IP display utility
 # By Ian Simpson @familysimpson
 
 import socket
-import RPi.GPIO as GPIO
 import time
 from sense_hat import SenseHat
 
 sense = SenseHat()
-
+sense.set_rotation(180)
 def get_local_ip_address(target):
   ipaddr = ''
   try:
